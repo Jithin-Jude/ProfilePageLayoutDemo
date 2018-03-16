@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="description">Stephen Hawking is the former Lucasian Professor of
+        Mathematics at the University of Cambridge and author of
+        A Brief History of Time which was an international bestseller.</string>
+    <string name="profile_name">Stephen Hawking</string>
+    <string name="profile_url">hawking.org.uk</string>
+    <string name="button_title">+ Follow</string>
+</resources>
